@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>    
+
+<h1> This is a heading 1</h1> 
+<p>This is a paragraph. Below is an image (use and image url you choose).</p>
+<img src="https://p7.hiclipart.com/preview/1005/511/631/web-development-html-logo-world-wide-web-consortium-create-html-signature-thumbnail.jpg"/> <br>
+<a href="https://www.google.com">Link to www.google.com</a> <br>
+</head>
+<body>
+
+<p>Race results:</p>
+<ol> 
+    <li>Samantha</li>
+    <li>Ronny</li>
+    <li>Sally</li>
+</ol>
+<p>Favorite Foods:</p>
+<ul>
+    <li>Pizza</li>
+    <li>Fish</li>
+    <li>Pasta</li>
+</ul>
+<table>
+    <tr>
+       <th>First Name</th>
+        <th>Last Name</th>
+        <th>Email Address</th> 
+    </tr>
+    <td> Tom</td>
+    <td> Sawyer</td>
+    <td>t.sawyer@yahoo.com</td> 
+    </tr>
+    <tr>
+        <td>Huck</td>
+        <td>Finn</td>
+        <td>h.finn@aol.com</td>
+    <tr>
+         <td>Mark</td>
+            <td>Twain</td>
+            <td>m.twain@gmail.com</td>
+        
+        </tr>
+    </table>
+
+        <h3>Login</h3>
+        <form>  
+            <div class="container">   
+                  
+                <input type="text" placeholder="Username" name="username" required><br>  
+                
+                <input type="password" placeholder="Password" name="password" required><br>
+
+                <button type="submit">Submit</button>  
+            </div>
+        </form>         
+
+</body>
+</html>
